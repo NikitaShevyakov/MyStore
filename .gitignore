@@ -1,0 +1,10 @@
+MyStore.WebApi/bin/
+MyStore.WebApi/obj/
+
+MyStore.UI/bin/
+MyStore.UI/obj
+
+.vs/
+*.suo
+*.user
+build/
